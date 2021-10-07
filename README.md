@@ -1,12 +1,12 @@
 ### Hi there, tudo certo? Eu sou o Julianno Barreto, é um prazer ter você por aqui ... 🤗
 ##
 
-- 🔭 Sou estudante de Análise e desenvolvimento de sistemas, atualmente trabalhando como motorista.
-- 🌱 Estudando: Java, Spring, Angular e MySQL.
-- 👯 I’m looking to collaborate on projetos  que eu possa contribuir e ao mesmo tempo  conhecer ferramentas e tecnologias novas.
-- 🤔 I’m looking for  oportunidades como estágiario ou trainee.
-- 😄 Pronouns: ele/dele.
-- ⚡ Fun fact: Adoro conhecer tecnologias  e ferramentas novas, apaixonado por livros e cachorros.
+- 🔭 I am a student of Systems Analysis and Development, currently working as a driver.
+- 🌱 Studying: Java, Spring, Angular and MySQL.
+- 👯 I’m looking to collaborate on projects that I can contribute and at the same time learn about new tools and technologies.
+- 🤔 I’m looking for opportunities as an intern or trainee.
+- 😄 Pronouns: he/his.
+- ⚡ Fun fact: I love learning about new technologies and tools, passionate about books and dogs.
 
 <div>
   <a href="https://github.com/juliannobarreto">
@@ -31,7 +31,7 @@
   <a href="mailto:juliannobarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliano-barreto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	
-  ![Snake animation](https://github.com/juliannbarreto/juliannobarreto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/juliannobarreto/juliannobarreto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
