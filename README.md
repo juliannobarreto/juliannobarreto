@@ -1,4 +1,4 @@
-### Hi there, tudo certo? Eu sou o Julianno Barreto, é um prazer ter você por aqui ... 🤗
+### Hi there, how are you? I'm Julianno Barreto, it's a pleasure to have you here ... 🤗
 ##
 
 - 🔭 I am a student of Systems Analysis and Development, currently working as a driver.
