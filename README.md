@@ -5,13 +5,12 @@
 - 🌱 Studying: Java, Spring, Angular and MySQL.
 - 👯 I’m looking to collaborate on projects that I can contribute and at the same time learn about new tools and technologies.
 - 🤔 I’m looking for opportunities as an intern or trainee.
-- 😄 Pronouns: he/his.
 - ⚡ Fun fact: I love learning about new technologies and tools, passionate about books and dogs.
 
 <div>
   <a href="https://github.com/juliannobarreto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliannobarreto&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannobarreto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliannobarreto&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannobarreto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
