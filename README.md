@@ -5,7 +5,7 @@
 - 🌱 Studying: Java, Spring, Angular and MySQL.
 - 👯 I’m looking to collaborate on projects that I can contribute and at the same time learn about new tools and technologies.
 - 🤔 I’m looking for opportunities as an intern or trainee.
-- ⚡ Fun fact: I love learning about new technologies and tools, passionate about books and dogs.
+- ⚡ Fun fact: I love learning about new technologies and tools.
 
 <div>
   <a href="https://github.com/juliannobarreto">
